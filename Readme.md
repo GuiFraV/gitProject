@@ -1,7 +1,7 @@
 # Git & Github
 
 ![Image Git](Image1.png)
-< img src="Image1.png" width="200"/>
+<img src="Image1.png" width="200"/>
 
 ### Git
 
