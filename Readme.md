@@ -1,6 +1,6 @@
 # Git & Github
 
-![Image Git](/assets/Pic/Image.jpg "Logos Git")
+![Image Git](https://www.wallpapertip.com/wdown/hmiwwx_git-and-github-logo/)
 
 ### Git
 
