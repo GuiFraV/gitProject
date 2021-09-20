@@ -4,7 +4,7 @@
 
 ### Git
 
-Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads)
+Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads =250x)
 
 ### Définition 
 
