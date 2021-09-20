@@ -12,4 +12,4 @@ Git est un outil de versionning, les outils de versionning ont pour objectif de 
 
 #### 1er étape
 
-Initialise Git dans le projet : ** git init **
+Initialise Git dans le projet : **git init**
