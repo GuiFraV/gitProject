@@ -1,6 +1,6 @@
 # Git & Github
 
-![Image Git](Image1.png =250x)
+![Image Git](Image1.png =25x25)
 
 ### Git
 
