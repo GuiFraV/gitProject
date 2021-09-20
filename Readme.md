@@ -33,4 +33,9 @@ A partir de maintenant vous n'aurez plus besoins de faire les étapes au-dessus 
 Réaliser un commit, deux étapes doivent être réalisées:
 
     1.D'abord, l'ajout des fichiers à prendre en photo : **git add .**
-    
+
+    2. Ensuite, la prise de photo elle-même : **git commit -m "commentaire à mettre ici"**
+
+    3. Mettre votre repository Github à jour : **git push origin master**
+
+    # The End...
