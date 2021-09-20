@@ -1,3 +1,7 @@
 # Git & Github
 
-![Image Git](/Image.jpg "Logos Git")
+![Image Git](/assets/Pic/Image.jpg "Logos Git")
+
+### Git
+
+Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads)
