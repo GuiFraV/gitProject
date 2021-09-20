@@ -1,10 +1,10 @@
 # Git & Github
 
-![Image Git](Image1.png)
+![Image Git](Image1.png =250x)
 
 ### Git
 
-Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads =250x)
+Pour télécharger **Git**, voici le lien [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ### Définition 
 
